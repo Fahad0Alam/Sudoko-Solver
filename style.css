@@ -117,4 +117,5 @@
 
 #GetPuzzle:hover,#SolvePuzzle:hover{
     background-color: #2f5c7c;
+    cursor: pointer;
 }
