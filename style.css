@@ -1,7 +1,7 @@
 .Header{
     display: flex;
     justify-content: space-between;
-    width: 100%;
+    width: auto;
     margin-bottom: 60px;
     background-color: blanchedalmond;
 } 
